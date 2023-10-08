@@ -47,7 +47,7 @@ I am not responsible for any damages this software may cause after being acquire
 - @pathos (teaching me java)
 
 
-## Message from Aqua_Not
+## Message from Aqua_Not and Snrios
 Anti Benadryl coming soon to stop this rat from being used maliciously :)
 And Francium was never a rat stop spreading fake shit, Love from Aqua and Snrios (Anti benadryl devs).
 
