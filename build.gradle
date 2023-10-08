@@ -1,0 +1,23 @@
+plugins {
+    id 'com.github.johnrengelman.shadow' version '8.1.1'
+    id 'java'
+}
+
+group = 'dev'
+version = '1.0-SNAPSHOT'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'net.java.dev.jna:jna:5.10.0'
+    implementation 'net.java.dev.jna:jna-platform:5.10.0'
+    implementation 'com.google.code.gson:gson:2.8.8'
+    implementation 'commons-io:commons-io:2.11.0'
+}
+
+tasks.jar {
+    manifest.attributes["Main-Class"] = "dev.client.Client"
+}
