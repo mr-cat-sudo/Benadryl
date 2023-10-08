@@ -4,6 +4,8 @@
 ## Note: 
 This is a version that was given to wok, I dragged nekoclient injector to It just to make sure wok wasn't going to leak nothing, I did It to keep track so If someone leaked It I knew It was wok because I was the only one who gave him the neko version, this source got the neko client part removed so It can be enjoyable. eventually It was leaked to snrios and then we decided to make the source public, And this project isn't going to be updated.
 
+I am not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
+
 ## Features
 ### Stealer
 - Minecraft Accounts
@@ -52,7 +54,3 @@ And Francium was never a rat stop spreading fake shit, Love from Aqua and Anti B
 ## Thanks to everyone.
 
 Thanks to everyone who has helped me on this journey since February. It has been a lot of fun ratting little kids (I'm elpapu speaking, not Aqua lol). I've learned a lot during this time from my friends. It has been a good year for me, but I think it's time to move on, so I'll quit ratting since it's not the same anymore. new gens skidded my rat, so I think it's time to make it public. I hope whoever is reading this will be responsible for the use given to this project. Shoutout to pathos, vii, didi, aqua, body, zkamado_, maticrics, and ynn\_(even if wok leaked this lol). 
-
-## Note
-
-I am not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
