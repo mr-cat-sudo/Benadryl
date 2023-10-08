@@ -52,21 +52,6 @@ import dev.client.utils.files.count.Count;
 import dev.client.utils.files.UploadUtil;
 import dev.client.utils.client.PoliciesUtil;
 import dev.client.utils.files.Webhook;
-import dev.injector.*;
-import dev.injector.asm.Entry;
-import dev.injector.asm.EntryList;
-import dev.injector.template.Template;
-import dev.injector.template.impl.FabricModTemplate;
-import dev.injector.template.impl.ForgeModTemplate;
-import dev.injector.template.impl.MinecraftClientTemplate;
-import dev.injector.template.impl.SpigotPluginTemplate;
-import dev.injector.template.impl.BungecoordPluginTemplate;
-
-import org.objectweb.asm.ClassReader;
-import org.objectweb.asm.tree.ClassNode;
-
-
-
 
 public class Client {
 
