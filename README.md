@@ -44,7 +44,7 @@
 
 ## Message from Aqua_Not
 Anti Benadryl coming soon to stop this rat from being used maliciously :)
-And Francium was never a rat stop spreading fake shit
+And Francium was never a rat stop spreading fake shit, Love from Aqua.
 
 ## Thanks to everyone.
 
