@@ -1,5 +1,5 @@
 @echo off
 echo Running Gradle build...
-gradle build
+gradle shadowJar
 echo Gradle build complete.
 pause
