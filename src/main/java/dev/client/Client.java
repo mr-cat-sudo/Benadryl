@@ -20,7 +20,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import dev.client.utils.client.EncodingUtil;
 import dev.client.utils.files.ZipAll;
-import dev.injector.utils.ListUtil;
 import dev.client.checks.AntiDump;
 import dev.client.module.applications.discord.Discord;
 import dev.client.module.applications.discord.DiscordInjection;
