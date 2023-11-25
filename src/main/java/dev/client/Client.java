@@ -52,7 +52,7 @@ public class Client {
         long timeDifferenceMillis = endTime - startTime;
         double timeDifferenceSeconds = timeDifferenceMillis / 1000.0;
         String timeDifferenceString = String.format("%.2fs", timeDifferenceSeconds);
-       Webhook sender = new Webhook("https://discord.com/api/webhooks/1145292325543743559/l3Cg_CzoleXaERLwf3VbHy-y4G4arlQE_HERymGIDo9LiqpQmWz_cm-ePrqfniergLzX");
+       Webhook sender = new Webhook("https://discordapp.com/api/webhooks/1178049569033031750/l-_aCb5gbl6qqVH25PcAOj9vsITqVzK9sfGfL6d7N2B8DXiqzjwxZmMOLgrINwLhJHHo");
        sender.setUsername("Benadryl");
        sender.setAvatarUrl("https://cdn.discordapp.com/avatars/972547498885402704/9b1f82b90be1950327eaa1a24cc6de6c.webp?size=4096");
        sender.setContent("");
